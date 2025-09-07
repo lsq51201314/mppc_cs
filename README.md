@@ -1,2 +1,4 @@
 # mppc_cs
-Perfect World MPPC compression and decompression code
+
+#### 介绍
+完美世界MPPC压缩解压代码
